@@ -169,8 +169,6 @@ Movie discovery platform with authentication, favorites, watchlists and movie ex
 
 # 📈 Activity
 
-# 📈 Activity
-
 <div align="center">
 
 <img
