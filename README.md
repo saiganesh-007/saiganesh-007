@@ -169,15 +169,19 @@ Movie discovery platform with authentication, favorites, watchlists and movie ex
 
 # 📈 Activity
 
+# 📈 Activity
+
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiganesh-007&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiganesh-007&theme=github_dark&name=Sai"
   width="100%"
-  alt="Sai Ganesh GitHub Activity"
+  alt="Sai GitHub Activity"
 />
 
 </div>
+
+
 ---
 ## 🐍 Contribution Snake
 
