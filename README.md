@@ -1,13 +1,13 @@
 <!-- ===================== HERO ===================== -->
 
+  # Hi, I'm Sai Ganesh 👋
+
 <img
   align="right"
   src="./sai-cartoon.png"
-  width="225"
+  width="235"
   alt="Sai"
 />
-
-# Hi, I'm Sai Ganesh 👋
 
 ### Full Stack Developer · AI Enthusiast · CSE Student
 
@@ -23,13 +23,6 @@ Always curious. Always building. Always learning.
 <br clear="right"/>
 
 ---
-
-<!-- ===================== ABOUT + STACK ===================== -->
-
-<table>
-<tr>
-
-<td width="52%" valign="top">
 
 ## 👤 About Me
 
@@ -97,9 +90,7 @@ Build products that are **useful, fast, clean and enjoyable to use.**
 
 ### 💚 Personal Finance
 
-A modern finance platform for managing accounts, transactions, budgets and financial insights.
-
-<br/>
+Finance platform for managing accounts, transactions, budgets and financial insights.
 
 **Built With**
 
@@ -110,7 +101,7 @@ A modern finance platform for managing accounts, transactions, budgets and finan
 <br/>
 
 <a href="https://github.com/saiganesh-007">
-<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 </td>
@@ -119,9 +110,7 @@ A modern finance platform for managing accounts, transactions, budgets and finan
 
 ### 🏍️ RideSense
 
-AI-powered motorcycle safety system with proximity detection, blind-spot alerts and warning systems.
-
-<br/>
+AI motorcycle safety system with proximity detection, blind-spot alerts and haptic warnings.
 
 **Built With**
 
@@ -132,7 +121,7 @@ AI-powered motorcycle safety system with proximity detection, blind-spot alerts 
 <br/>
 
 <a href="https://github.com/saiganesh-007">
-<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 </td>
@@ -143,8 +132,6 @@ AI-powered motorcycle safety system with proximity detection, blind-spot alerts 
 
 Movie discovery platform with authentication, favorites, watchlists and media exploration.
 
-<br/>
-
 **Built With**
 
 `React` `Flask`
@@ -154,7 +141,7 @@ Movie discovery platform with authentication, favorites, watchlists and media ex
 <br/>
 
 <a href="https://github.com/saiganesh-007/cineworld">
-<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 </td>
@@ -213,25 +200,11 @@ Movie discovery platform with authentication, favorites, watchlists and media ex
 
 <div align="center">
 
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="Sai GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-
-</picture>
+<img
+  src="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Sai Contribution Snake"
+/>
 
 </div>
 
