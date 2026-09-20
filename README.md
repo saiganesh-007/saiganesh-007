@@ -3,25 +3,56 @@
      github.com/saiganesh-007
 ========================================================== -->
 
-<div align="center">
+<table>
+<tr>
 
-# Hi, I'm <span style="color:#58A6FF">Sai Ganesh</span> 👋
+<td width="62%" valign="middle">
 
-### Full Stack Developer · AI Enthusiast · CSE Student
+<h1>Hi, I'm <b>Sai Ganesh</b> 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Exploring+AI+%26+intelligent+systems;Turning+ideas+into+real-world+products;Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat" />
+<h3>Full Stack Developer · AI Enthusiast · CSE Student</h3>
+
+<p>
+I love building modern web applications, exploring AI, and turning ideas into real-world products.
+Always curious. Always building. Always learning.
+</p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&vCenter=true&width=560&lines=Building+modern+web+applications;Exploring+AI+%26+intelligent+systems;Turning+ideas+into+real-world+products;Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Build-0D1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Learn-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Improve-0D1117?style=for-the-badge&logo=hackthebox&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Repeat-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF"/>
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img
+  src="./sai-cartoon.png"
+  width="290"
+  alt="Sai Cartoon"
+/>
 
 <br/>
 
-> **Ideas build a better tomorrow.**
+<i>Ideas build a better tomorrow.</i>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
 <table>
 <tr>
-<td width="55%" valign="top">
+
+<td width="52%" valign="top">
 
 ## 👤 About Me
 
@@ -29,47 +60,52 @@
 
 💻 Interested in **Full Stack Development & AI**
 
-🧠 Currently improving my skills in  
+🧠 Currently improving:
+
 **System Design · Backend · AI Integration · DSA**
 
-🚀 I enjoy building projects from  
+🚀 I enjoy building projects from:
+
 **Idea → Design → Development → Deployment**
 
 📍 Hosur, India
 
-🎯 Goal: Build products that are **useful, fast, clean and enjoyable to use**
+🎯 Building products that are:
+
+**Useful · Fast · Clean · Enjoyable**
 
 </td>
 
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 ## 🧊 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css&theme=dark"/>
 </p>
 
 ### Frameworks / Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,flask&theme=dark"/>
 </p>
 
-### Databases / Backend
+### Database / Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark"/>
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -84,14 +120,20 @@
 
 ### 💚 Personal Finance
 
-A modern finance platform to manage accounts, track transactions, set budgets and understand financial insights.
+A modern finance platform for managing accounts, transactions, budgets and financial insights.
 
-**Tech**
+<br/>
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+**Built With**
+
+`Next.js` `TypeScript`
+
+`Supabase` `PostgreSQL`
+
+<br/>
 
 <a href="https://github.com/saiganesh-007">
-<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 </td>
@@ -100,14 +142,20 @@ A modern finance platform to manage accounts, track transactions, set budgets an
 
 ### 🏍️ RideSense
 
-AI-powered motorcycle safety system with proximity detection, blind-spot alerts, LED warnings and haptic feedback.
+AI-powered motorcycle safety system with proximity detection, blind-spot alerts and warning systems.
 
-**Tech**
+<br/>
 
-`ESP32` `C++` `Embedded` `IoT`
+**Built With**
+
+`ESP32` `C++`
+
+`Embedded` `IoT`
+
+<br/>
 
 <a href="https://github.com/saiganesh-007">
-<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 </td>
@@ -116,14 +164,20 @@ AI-powered motorcycle safety system with proximity detection, blind-spot alerts,
 
 ### 🎬 CINEWorld
 
-Movie discovery platform with authentication, favorites, watchlists and movie exploration.
+Movie discovery platform with authentication, favorites, watchlists and media exploration.
 
-**Tech**
+<br/>
 
-`React` `Flask` `Supabase` `SQLAlchemy`
+**Built With**
+
+`React` `Flask`
+
+`Supabase` `SQLAlchemy`
+
+<br/>
 
 <a href="https://github.com/saiganesh-007/cineworld">
-<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+<img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
 </td>
@@ -177,28 +231,34 @@ Movie discovery platform with authentication, favorites, watchlists and movie ex
 </div>
 
 ---
-## 🐍 Contribution Snake
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake.svg"
   />
+
   <img
-    alt="GitHub contribution snake"
+    alt="Sai GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake.svg"
+    width="100%"
   />
+
 </picture>
 
 </div>
 
-> Keep building. Keep growing.
+> **Keep building. Keep growing.**
 
 ---
 
@@ -206,14 +266,14 @@ Movie discovery platform with authentication, favorites, watchlists and movie ex
 
 Feel free to reach out for **collaborations, opportunities or just a chat!**
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
@@ -238,10 +298,12 @@ Feel free to reach out for **collaborations, opportunities or just a chat!**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=saiganesh-007&label=PROFILE+VIEWS&color=0969da&style=for-the-badge)
+<img
+  src="https://komarev.com/ghpvc/?username=saiganesh-007&label=PROFILE+VIEWS&color=0969da&style=for-the-badge"
+/>
 
 <br/><br/>
 
-**Good Code. Brighter Future.**
+### Good Code. Brighter Future. ⚡
 
 </div>
