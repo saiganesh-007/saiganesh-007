@@ -168,28 +168,34 @@ Movie discovery platform with authentication, favorites, watchlists and media ex
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiganesh-007&theme=github_dark"
-  width="52%"
-/>
+<table>
+<tr>
 
-<br/><br/>
+<td align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiganesh-007&theme=github_dark"
+    height="180"
+  />
+</td>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiganesh-007&theme=github_dark"
-  width="52%"
-/>
+<td align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiganesh-007&theme=github_dark"
+    height="180"
+  />
+</td>
 
-<br/><br/>
+</tr>
+</table>
+
+<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=saiganesh-007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF"
-  width="58%"
+  width="70%"
 />
 
 </div>
-
----
 
 ---
 
