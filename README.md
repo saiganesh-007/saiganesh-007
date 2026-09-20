@@ -1,6 +1,8 @@
 <!-- ===================== HERO ===================== -->
 
-  # Hi, I'm Sai Ganesh 👋
+ <h1 align="center">
+  Hi, I'm Sai Ganesh 👋
+</h1>
 
 <img
   align="right"
