@@ -1,58 +1,35 @@
-<!-- =========================================================
-     SAI GANESH — GITHUB PROFILE README
-     github.com/saiganesh-007
-========================================================== -->
+<img
+  align="right"
+  src="./sai-cartoon.png"
+  width="285"
+  alt="Sai"
+/>
 
-<table>
-<tr>
-
-<td width="62%" valign="middle">
-
-<h1>Hi, I'm <b>Sai Ganesh</b> 👋</h1>
+<h1>Hi, I'm Sai Ganesh 👋</h1>
 
 <h3>Full Stack Developer · AI Enthusiast · CSE Student</h3>
 
 <p>
-I love building modern web applications, exploring AI, and turning ideas into real-world products.
-Always curious. Always building. Always learning.
+I love building modern web applications, exploring AI, and turning
+ideas into real-world products. Always curious. Always building.
+Always learning.
 </p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&vCenter=true&width=560&lines=Building+modern+web+applications;Exploring+AI+%26+intelligent+systems;Turning+ideas+into+real-world+products;Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&vCenter=true&width=560&lines=Building+modern+web+applications;Exploring+AI+%26+intelligent+systems;Turning+ideas+into+real-world+products"
 />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Build-0D1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Learn-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Improve-0D1117?style=for-the-badge&logo=hackthebox&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Repeat-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/▥_BUILD-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/▱_LEARN-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/◇_IMPROVE-0D1117?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/↻_REPEAT-0D1117?style=for-the-badge&logoColor=58A6FF"/>
 
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img
-  src="./sai-cartoon.png"
-  width="290"
-  alt="Sai Cartoon"
-/>
-
-<br/>
-
-<i>Ideas build a better tomorrow.</i>
-
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<table>
-<tr>
-
-<td width="52%" valign="top">
 
 ## 👤 About Me
 
