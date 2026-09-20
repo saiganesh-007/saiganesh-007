@@ -143,25 +143,22 @@ Movie discovery platform with authentication, favorites, watchlists and movie ex
 
 <div align="center">
 
-<table>
-<tr>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saiganesh-007&theme=github_dark"
+  height="180"
+/>
 
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiganesh-007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-</td>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saiganesh-007&theme=github_dark"
+  height="180"
+/>
 
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh-007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</td>
+<br/><br/>
 
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=saiganesh-007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF"/>
+<img
+  src="https://streak-stats.demolab.com?user=saiganesh-007&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FFB000&currStreakLabel=58A6FF"
+  width="70%"
+/>
 
 </div>
 
@@ -178,7 +175,6 @@ Movie discovery platform with authentication, favorites, watchlists and movie ex
 />
 
 </div>
-
 
 ---
 ## 🐍 Contribution Snake
