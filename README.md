@@ -1,55 +1,55 @@
+<!-- ===================== HERO ===================== -->
+
 <img
   align="right"
   src="./sai-cartoon.png"
-  width="285"
+  width="225"
   alt="Sai"
 />
 
-<h1>Hi, I'm Sai Ganesh 👋</h1>
+# Hi, I'm Sai Ganesh 👋
 
-<h3>Full Stack Developer · AI Enthusiast · CSE Student</h3>
+### Full Stack Developer · AI Enthusiast · CSE Student
 
-<p>
-I love building modern web applications, exploring AI, and turning
-ideas into real-world products. Always curious. Always building.
-Always learning.
-</p>
+I build modern web applications, experiment with AI, and turn ideas into real-world products.
+
+Always curious. Always building. Always learning.
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&vCenter=true&width=560&lines=Building+modern+web+applications;Exploring+AI+%26+intelligent+systems;Turning+ideas+into+real-world+products"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=58A6FF&vCenter=true&width=470&lines=Full+Stack+Development;AI+%26+Intelligent+Systems;Building+Real-World+Products;Learning+Something+New+Every+Day"
+  alt="Typing SVG"
 />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/▥_BUILD-0D1117?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/▱_LEARN-0D1117?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/◇_IMPROVE-0D1117?style=for-the-badge&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/↻_REPEAT-0D1117?style=for-the-badge&logoColor=58A6FF"/>
 
 <br clear="right"/>
 
 ---
 
+<!-- ===================== ABOUT + STACK ===================== -->
+
+<table>
+<tr>
+
+<td width="52%" valign="top">
 
 ## 👤 About Me
 
 🎓 CSE Student at **SRM Institute of Science and Technology**
 
-💻 Interested in **Full Stack Development & AI**
+💻 Focused on **Full Stack Development & AI**
 
-🧠 Currently improving:
+🧠 Currently learning:
 
 **System Design · Backend · AI Integration · DSA**
 
-🚀 I enjoy building projects from:
+🚀 I like taking projects through:
 
 **Idea → Design → Development → Deployment**
 
 📍 Hosur, India
 
-🎯 Building products that are:
+🎯 Goal:
 
-**Useful · Fast · Clean · Enjoyable**
+Build products that are **useful, fast, clean and enjoyable to use.**
 
 </td>
 
@@ -69,7 +69,7 @@ Always learning.
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite,flask&theme=dark"/>
 </p>
 
-### Database / Backend
+### Databases / Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark"/>
