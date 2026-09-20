@@ -176,12 +176,24 @@ Movie discovery platform with authentication, favorites, watchlists and movie ex
 </div>
 
 ---
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/saiganesh-007/saiganesh-007/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
