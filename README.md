@@ -254,23 +254,8 @@ Feel free to reach out for **collaborations, opportunities or just a chat!**
 <a href="https://x.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-<div align="center">
-
-### `BUILD` · `LEARN` · `IMPROVE` · `REPEAT`
-
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=saiganesh-007&label=PROFILE+VIEWS&color=0969da&style=for-the-badge"
-/>
-
 <br/><br/>
-
-### Good Code. Brighter Future. ⚡
-
+ <h4 align="center">
+ ### Good Code. Brighter Future. ⚡
+</h4>
 </div>
