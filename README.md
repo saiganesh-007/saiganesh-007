@@ -24,7 +24,12 @@ Always curious. Always building. Always learning.
 
 <br clear="right"/>
 
----
+<!-- ===================== ABOUT + STACK ===================== -->
+
+<table>
+<tr>
+
+<td width="52%" valign="top">
 
 ## 👤 About Me
 
