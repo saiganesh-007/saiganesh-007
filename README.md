@@ -201,15 +201,11 @@ Movie discovery platform with authentication, favorites, watchlists and media ex
 
 # 📈 Activity
 
-<div align="center">
-
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiganesh-007&theme=github_dark&name=Sai"
+  src="./profile-3d-contrib/profile-night-green.svg"
   width="100%"
-  alt="Sai GitHub Activity"
+  alt="Sai 3D GitHub Activity"
 />
-
-</div>
 
 ---
 
