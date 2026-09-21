@@ -201,11 +201,15 @@ Movie discovery platform with authentication, favorites, watchlists and media ex
 
 # 📈 Activity
 
+<div align="center">
+
 <img
-  src="./profile-3d-contrib/profile-night-green.svg"
-  width="100%"
+  src="./profile-3d-contrib/profile-night-view.svg"
+  width="78%"
   alt="Sai 3D GitHub Activity"
 />
+
+</div>
 
 ---
 
