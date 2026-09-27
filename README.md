@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="./assets/github-banner.jpg" width="100%" alt="Sai GitHub Banner" />
+  <img src="./banner.png" width="100%" alt="Sai GitHub Banner">
 </p>
-
 <!-- ===================== HERO ===================== -->
 
  <h1 align="center">
-  Hi, I'm Sai Ganesh 👋
+  Hi, I'm Sai 👋
 </h1>
 
 <img
